@@ -1,8 +1,8 @@
 h1. Readme
 
-Dette er en mer morsom fil å bruke for å redigere tekst i en tekstfil.
-Wiki-syntaks *funker* :)
+Dette er en mer morsom fdgtigflsf å bruke for å redigere tekst i en tekstfil.
+Wiki-syntaks *funker* sf:)
 
-h2. Kjempegøy!
+h2. Kjempegsdføy!
 
 :)
