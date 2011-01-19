@@ -4,3 +4,4 @@ Dette skal jammen bli en fin fil :)
 Og med litt mer tekst så kan jo dette bli riktig så spennende.
 
 Olav har vært her
+Legger til en linje her
